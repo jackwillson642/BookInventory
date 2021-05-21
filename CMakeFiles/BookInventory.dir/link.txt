@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g -rdynamic CMakeFiles/BookInventory.dir/src/Functions.cpp.o CMakeFiles/BookInventory.dir/src/Main.cpp.o -o BookInventory 

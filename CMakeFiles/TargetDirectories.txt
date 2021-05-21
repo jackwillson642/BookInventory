@@ -1,0 +1,3 @@
+/home/jack/desktop/learning_c++/BookInventory/CMakeFiles/rebuild_cache.dir
+/home/jack/desktop/learning_c++/BookInventory/CMakeFiles/edit_cache.dir
+/home/jack/desktop/learning_c++/BookInventory/CMakeFiles/BookInventory.dir
